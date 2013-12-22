@@ -1,4 +1,4 @@
-[![wercker status](https://app.wercker.com/status/2a0f14a005b14ce4ed873d37e97832b0/m "wercker status")](https://app.wercker.com/project/bykey/2a0f14a005b14ce4ed873d37e97832b0)
+[![wercker status](https://app.wercker.com/status/5460b7c4497d69faeff7913f01c7a8bc/m "wercker status")](https://app.wercker.com/project/bykey/5460b7c4497d69faeff7913f01c7a8bc)
 
 # create and launch AVD instance
 

@@ -15,3 +15,6 @@ properties:
   abi:
     type: string
     default: armeabi-v7a
+  port:
+    type: string
+    default: 5560    
